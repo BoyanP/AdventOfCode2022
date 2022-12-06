@@ -1,6 +1,5 @@
 import os.path
 
-
 data_path = os.path.join("..", "input", "Day01.txt")
 
 global highestCalories
